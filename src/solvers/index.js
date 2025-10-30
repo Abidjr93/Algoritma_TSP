@@ -1,5 +1,6 @@
 import random from "./exhaustive/random.worker";
 import depthFirstSearch from "./exhaustive/depthFirstSearch.worker";
+import breadthFirstSearch from "./exhaustive/breadthFirstSearch.worker";
 import branchAndBoundOnCost from "./exhaustive/branchAndBoundOnCost.worker";
 import branchAndBoundOnCostAndCross from "./exhaustive/branchAndBoundOnCostAndCross.worker";
 
@@ -16,6 +17,7 @@ import twoOptReciprocalExchange from "./heuristic-improvement/twoOptReciprocalEx
 export default {
   random,
   depthFirstSearch,
+  breadthFirstSearch,
   branchAndBoundOnCost,
   branchAndBoundOnCostAndCross,
 

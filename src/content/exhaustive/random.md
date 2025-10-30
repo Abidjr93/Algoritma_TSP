@@ -1,6 +1,6 @@
 ---
 type: exhaustive
-order: 2
+order: 3
 solverKey: random
 friendlyName: Random
 defaults:

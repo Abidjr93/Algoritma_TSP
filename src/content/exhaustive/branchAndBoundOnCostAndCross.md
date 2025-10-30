@@ -1,6 +1,6 @@
 ---
 type: exhaustive
-order: 4
+order: 5
 solverKey: branchAndBoundOnCostAndCross
 friendlyName: Branch and Bound (Cost, Crossings)
 defaults:
